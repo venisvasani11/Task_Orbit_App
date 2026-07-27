@@ -1,7 +1,7 @@
 # 🚀 Task Orbit — Smart Task & Productivity Tracker
 
 <p align="center">
-  <img src="screenshots/splash_screen.jpg" alt="Task Orbit Splash" width="220"/>
+  <img src="screenshots/splash.jpg" alt="Task Orbit Splash" width="220"/>
 </p>
 
 <p align="center">

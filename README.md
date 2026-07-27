@@ -28,9 +28,13 @@ A sleek, high-performance cross-platform **productivity and task management** mo
 
 ## 📱 App Screenshots & Visual Walkthrough
 
-| Splash & Onboarding | Yearly Calendar Heatmap | Monthly Analytics Dashboard |
-| :---: | :---: | :---: |
-| <img src="screenshots/splash_screen.jpg" width="220"/> | <img src="screenshots/calendar_view.jpg" width="220"/> | <img src="screenshots/analytics_view.jpg" width="220"/> |
+| Splash | Home | Today's Tasks | Create Task |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/splash.jpg" width="180"/> | <img src="screenshots/home.jpg" width="180"/> | <img src="screenshots/today.jpg" width="180"/> | <img src="screenshots/new_task.jpg" width="180"/> |
+
+| Calendar | Focus Timer | Analytics | Settings |
+| :---: | :---: | :---: | :---: |
+| <img src="screenshots/calender.jpg" width="180"/> | <img src="screenshots/timer.jpg" width="180"/> | <img src="screenshots/analytics.jpg" width="180"/> | <img src="screenshots/setting.jpg" width="180"/> |
 
 ---
 
@@ -214,20 +218,6 @@ dependencies:
 - Dart SDK 3.x
 - Android Studio / VS Code with Flutter extension
 - An Android emulator or physical device
-
-### Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/your-username/task_orbit.git
-cd task_orbit
-
-# Install dependencies
-flutter pub get
-
-# Run on connected device
-flutter run
-```
 
 ---
 

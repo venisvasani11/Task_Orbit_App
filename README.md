@@ -221,16 +221,9 @@ dependencies:
 
 ---
 
-## 🎥 Live Demos & Deliverables
-
-- **📹 Watch Video Walkthrough:** [Click Here to Watch Demo Video](https://your-video-link-or-drive.com)
-- **📲 Download Demo APK:** [Download Android APK](https://your-google-drive-apk-link.com)
-
----
-
 ## 📬 Contact & Evaluation
 
-Developed by **Venis Vasani** — Senior Flutter Developer & Mobile Architect.
+Developed by **Venis Vasani** — Flutter Developer & Mobile Architect.
 
 | Channel | Link |
 |---|---|
